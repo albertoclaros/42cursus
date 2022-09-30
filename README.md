@@ -2,7 +2,7 @@
 
 | Círculo | Proyecto                                                                              |            Lenguaje            |                                Puntuación                                    |
 | :----: | :----------------------------------------------------------------------------------- | :----------------------------: | :----------------------------------------------------------------------------: |
-|   01   | [**Libft**](https://github.com/albertoclaros/42cursus/tree/main/Libft)               |               C                |<img src="https://img.shields.io/badge/En progreso-orange?style=for-the-badge"> |
+|   01   | [**Libft**](https://github.com/albertoclaros/Libft)               |               C                |<img src="https://img.shields.io/badge/En progreso-orange?style=for-the-badge"> |
 
 ## :camera: Perfil de 42 Intra
 
