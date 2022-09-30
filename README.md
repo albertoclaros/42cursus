@@ -1,8 +1,8 @@
 ## :notebook_with_decorative_cover: 42 cursus (2022)
 
-| Círculo | Proyecto                                                                              |            Lenguaje            |                                Estado                                        |	                                Puntuación                                        |
-| :----: | :----------------------------------------------------------------------------------- | :----------------------------: | :----------------------------------------------------------------------------: |	 :----------------------------------------------------------------------------: |
-|   01   | [**Libft**](https://github.com/albertoclaros/42cursus/tree/main/Libft)               |               C                |<img src="https://img.shields.io/badge/En progreso-orange?style=for-the-badge"> |	<img src="https://img.shields.io/badge/---grey?style=for-the-badge"> |
+| Círculo | Proyecto                                                                              |            Lenguaje            |                                Puntuación                                    |
+| :----: | :----------------------------------------------------------------------------------- | :----------------------------: | :----------------------------------------------------------------------------: |
+|   01   | [**Libft**](https://github.com/albertoclaros/42cursus/tree/main/Libft)               |               C                |<img src="https://img.shields.io/badge/En progreso-orange?style=for-the-badge"> |
 
 ## :camera: Perfil de 42 Intra
 
